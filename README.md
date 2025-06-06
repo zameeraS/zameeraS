@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [building QuickTalk by Najoomi](https://quicktalk.najoomi.ai/)
 
-- 🌱 I’m currently researching **Making Eye disease classification trustworthy using Explainable AI**
+- 🌱 I’m currently researching **Making eye disease classification trustworthy using Explainable AI**
 
 - 💬 Ask me about **AI/ML, Model Deployment, LLM, AI agents**
 
