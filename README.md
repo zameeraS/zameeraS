@@ -1,5 +1,8 @@
 # 💫 About Me:
-- 🔭 I’m currently working on [building QuickTalk by Najoomi](https://quicktalk.najoomi.ai/)<br><br> - 🌱 I’m also researching **Making Eye disease classification trustworthy using Explainable AI**<br><br> - 💬 Ask me about **AI/ML, Model Deployment, LLM, AI agents**<br><br> - 📫 How to reach me **zameerasaleem@gmail.com**
+- 🔭 I’m currently working on [building QuickTalk by Najoomi](https://quicktalk.najoomi.ai/)<br><br>
+- 🌱 I’m also researching **Making Eye disease classification trustworthy using Explainable AI**<br><br>
+- 💬 Ask me about **AI/ML, Model Deployment, LLM, AI agents**<br><br>
+- 📫 How to reach me **zameerasaleem@gmail.com**
 
 
 ## 🌐 Socials:
